@@ -19,6 +19,3 @@
 /// laskfjldsjf
 // saflkjsdf
 
-// 13 change from m-skolnic
-// 14
-// 15
